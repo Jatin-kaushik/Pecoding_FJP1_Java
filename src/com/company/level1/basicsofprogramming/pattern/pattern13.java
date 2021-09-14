@@ -1,4 +1,4 @@
-package com.company.level1.basicsofprogramming;
+package com.company.level1.basicsofprogramming.pattern;
 import java.util.Scanner;
 
 public class pattern13 {

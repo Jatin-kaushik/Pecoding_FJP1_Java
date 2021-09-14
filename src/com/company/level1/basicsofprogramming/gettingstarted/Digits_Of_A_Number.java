@@ -1,4 +1,4 @@
-package com.company.level1.basicsofprogramming;
+package com.company.level1.basicsofprogramming.gettingstarted;
 import java.util.*;
 
 public class Digits_Of_A_Number {

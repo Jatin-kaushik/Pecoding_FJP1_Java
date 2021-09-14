@@ -1,4 +1,4 @@
-package com.company.level1.basicsofprogramming;
+package com.company.level1.basicsofprogramming.gettingstarted;
 import java.util.*;
 public class Fibonacci_Numbers_Till_N {
     public static void main(String [] args){

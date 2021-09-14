@@ -1,4 +1,4 @@
-package com.company.level1.basicsofprogramming;
+package com.company.level1.basicsofprogramming.gettingstarted;
 import java.util.*;
 public class rotate_a_number {
     public static void main(String [] args){
