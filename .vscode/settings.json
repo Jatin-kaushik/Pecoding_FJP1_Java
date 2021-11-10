@@ -1,10 +1,11 @@
 {
     "java.project.sourcePaths": [
         "level1/Recursion and BackTracking/Recursion in ArrayLists",
+        "level1/Recursion and BackTracking/Introduction to Recursion",
         "level1/Basics of Programming/pattern",
         "level1/Basics of Programming/Getting Started",
         "level1/Basics of Programming/Functions and Array",
-        "Introduction to Recursion",
-        "Recursion in Array"
+        "Recursion in Array",
+        "TIme and Space Complexity"
     ]
 }

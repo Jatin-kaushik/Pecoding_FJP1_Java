@@ -11,7 +11,7 @@ public class last_index {
 
         int ele = scn.nextInt();
         scn.close();
-        int result = lastindex(arr, 0, ele)
+        int result = lastindex(arr, 0, ele);
         System.out.println(result);
     }
 
